@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=nowlisten_linux
+Type=Application
+Exec=python3 /ABSOLUTE PATH TO/nowlisten_linux.py
+Categories=Application
+Icon=/ABSOLUTE PATH TO/nowlisten_linux/headphones.svg
